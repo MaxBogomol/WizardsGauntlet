@@ -9,8 +9,8 @@
 
 # About:
 
-Replaces the Arcane Wand from [Wizard's Reborn](https://github.com/MaxBogomol/WizardsReborn) with a gauntlet.
+Replaces the Arcane Wand from **[Wizard's Reborn](https://github.com/MaxBogomol/WizardsReborn)** with a gauntlet.
 
 ![](https://fluffy-village.dev/assets/creations/wizards_gauntlet/gauntlet.png)
 
-For display the gauntlet correctly, you should disable the Arcane Wand animations in the mod config.
+For displaying the gauntlet correctly, you should disable the Arcane Wand animations in the mod config.
