@@ -1,0 +1,6 @@
+{
+  "parent": "wizards_reborn:item/arcane_wand",
+  "textures": {
+    "0": "wizards_reborn:item/skin/soul_hunter_arcane_wand"
+  }
+}

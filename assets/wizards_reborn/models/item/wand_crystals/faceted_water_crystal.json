@@ -1,0 +1,6 @@
+{
+  "parent": "wizards_reborn:item/wand_crystals/wand_crystal",
+  "textures": {
+    "layer0": "wizards_reborn:item/wand_crystals/faceted_water_crystal"
+  }
+}

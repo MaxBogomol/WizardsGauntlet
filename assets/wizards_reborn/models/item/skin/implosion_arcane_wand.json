@@ -1,0 +1,6 @@
+{
+  "parent": "wizards_reborn:item/arcane_wand",
+  "textures": {
+    "0": "wizards_reborn:item/skin/implosion_arcane_wand"
+  }
+}

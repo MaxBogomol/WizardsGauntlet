@@ -1,0 +1,30 @@
+{
+	"elements": [
+		{
+			"from": [8, 9.5, 7],
+			"to": [10, 11.5, 9],
+			"rotation": {"angle": 0, "axis": "z", "origin": [4, 8, 8]},
+			"faces": {
+				"north": {"uv": [4, 0, 6, 2], "rotation": 90, "texture": "#layer0"},
+				"east": {"uv": [4, 0, 6, 2], "rotation": 270, "texture": "#layer0"},
+				"south": {"uv": [2, 0, 4, 2], "rotation": 270, "texture": "#layer0"},
+				"west": {"uv": [2, 0, 4, 2], "rotation": 270, "texture": "#layer0"},
+				"up": {"uv": [0, 0, 2, 2], "rotation": 270, "texture": "#layer0"},
+				"down": {"uv": [2, 0, 4, 2], "rotation": 270, "texture": "#layer0"}
+			}
+		},
+		{
+			"from": [10.25, 11.75, 9.25],
+			"to": [7.75, 9.25, 6.75],
+			"rotation": {"angle": 0, "axis": "z", "origin": [4, 8, 8]},
+			"faces": {
+				"north": {"uv": [6, 0, 8, 2], "forge_data": {"block_light": 15, "sky_light": 15 }, "rotation": 90, "texture": "#layer0"},
+				"east": {"uv": [6, 0, 8, 2], "forge_data": {"block_light": 15, "sky_light": 15 }, "rotation": 270, "texture": "#layer0"},
+				"south": {"uv": [6, 0, 8, 2], "forge_data": {"block_light": 15, "sky_light": 15 }, "rotation": 270, "texture": "#layer0"},
+				"west": {"uv": [6, 0, 8, 2], "forge_data": {"block_light": 15, "sky_light": 15 }, "rotation": 270, "texture": "#layer0"},
+				"up": {"uv": [6, 0, 8, 2], "forge_data": {"block_light": 15, "sky_light": 15 }, "rotation": 270, "texture": "#layer0"},
+				"down": {"uv": [6, 0, 8, 2], "forge_data": {"block_light": 15, "sky_light": 15 }, "rotation": 270, "texture": "#layer0"}
+			}
+		}
+	]
+}

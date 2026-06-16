@@ -1,0 +1,66 @@
+{
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "wizards_reborn:item/arcane_wand",
+		"particle": "wizards_reborn:item/arcane_wand"
+	},
+	"elements": [
+		{
+			"from": [5.45, 5.45, 5.45],
+			"to": [12.55, 10.55, 10.55],
+			"rotation": {"angle": 0, "axis": "z", "origin": [4, 8, 8]},
+			"faces": {
+				"north": {"uv": [2, 2, 4, 5], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [6, 0, 4, 2], "rotation": 270, "texture": "#0"},
+				"south": {"uv": [6, 2, 8, 5], "rotation": 270, "texture": "#0"},
+				"west": {"uv": [2, 0, 4, 2], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [0, 2, 2, 5], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [4, 2, 6, 5], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"from": [5.35, 5.35, 5.35],
+			"to": [12.65, 10.65, 10.65],
+			"rotation": {"angle": 0, "axis": "z", "origin": [4, 8, 8]},
+			"faces": {
+				"north": {"uv": [2, 7, 4, 10], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [6, 5, 4, 7], "rotation": 270, "texture": "#0"},
+				"south": {"uv": [6, 7, 8, 10], "rotation": 270, "texture": "#0"},
+				"west": {"uv": [2, 5, 4, 7], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [0, 7, 2, 10], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [4, 7, 6, 10], "rotation": 270, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, -90],
+			"translation": [0, -2, 4]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, -180, 90],
+			"translation": [0, -2, 4]
+		},
+		"firstperson_righthand": {
+			"rotation": [110, 75, -90],
+			"translation": [0, -1, 1.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [110, -105, 90],
+			"translation": [0, -1, 1.25]
+		},
+		"ground": {
+			"rotation": [90, 0, 0]
+		},
+		"gui": {
+			"rotation": [45, 40, 0],
+			"translation": [-1, -0.5, 0],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"fixed": {
+			"rotation": [180, 0, -135],
+			"translation": [1.25, -1.25, 0],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}
